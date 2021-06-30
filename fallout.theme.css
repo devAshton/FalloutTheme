@@ -487,3 +487,15 @@
 .thin-1ybCId.scrollerBase-289Jih {
     background-color: #111f30;
 } 
+
+.button-1ZiXG9 {
+    background-color: #111f30;
+}
+
+.button-1ZiXG9.selected-LCBEAU {
+    background-color: #143155;
+}
+
+.button-1ZiXG9:hover {
+    background-color: #143155;
+}
